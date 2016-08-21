@@ -2,6 +2,8 @@
 
 ### Usage
 Program requires Python 3.4
+
+To run application
 ```
 python3 app.py
 ```
