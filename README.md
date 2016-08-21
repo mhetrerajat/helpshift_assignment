@@ -20,6 +20,29 @@ python3 test.py
 6. **app.py** and **test.py** are documented for reference.
 7. Pylint is used for code analysis of **app.py** and **test.py**.
 
+### Demo Execution
+```
+[rajatmhetre:~]$ python3 app.py
+1) Add Contact    2) Search    3) Exit
+1
+Enter Name :Chris
+1) Add Contact    2) Search    3) Exit
+1
+Enter Name :Chris Harris
+1) Add Contact    2) Search    3) Exit
+2
+Type query :ch
+Chris
+Chris Harris
+1) Add Contact    2) Search    3) Exit
+2
+Type query :ha
+Chris Harris
+1) Add Contact    2) Search    3) Exit
+3
+Good Bye! Happy Searching…
+```
+
 
 
 
