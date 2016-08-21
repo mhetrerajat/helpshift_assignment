@@ -7,9 +7,9 @@ python3 app.py
 ```
 
 To run test case
-‘’’
+```
 python3 test.py
-‘’’
+```
 
 ### Features
 1. Add and Search Contact
