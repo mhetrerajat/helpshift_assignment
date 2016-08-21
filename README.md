@@ -1,7 +1,7 @@
 # Helpshift Assignment
 
 ### Usage
-Program requires Python 3.4
+Program requires Python 3.4.1
 
 To run application
 ```
